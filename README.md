@@ -13,7 +13,7 @@
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/peichenchiu/notebook/light" />
   <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/peichenchiu/discussion" />
 </p>
- -->
+
 
 
 <p align="center"> 
@@ -32,3 +32,5 @@
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pei-Chen-Chiu&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&show_icons=true&locale=en&langs_count=10&layout=compact"/></div>
 </p>
+
+ -->
