@@ -27,7 +27,7 @@
 <img src="https://streak-stats.demolab.com?user=Pei-Chen-Chiu&theme=holi-theme&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D"/>
 <br/>
 <br/>
-
+ 
 <summary><b> LANGUAGE STATS </b></summary>
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pei-Chen-Chiu&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&show_icons=true&locale=en&langs_count=10&layout=compact"/></div>
