@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Pei-Chen-Chiu/Pei-Chen-Chiu/main/assets/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/Pei-Chen-Chiu/Pei-Chen-Chiu/output/github-contribution-grid-snake.svg)
 
 <!-- ![your id](https://road-to-kaggle-grandmaster.vercel.app/api/simple/peichenchiu)
 ![default version](https://road-to-kaggle-grandmaster.vercel.app/api/badges/{your id}/{part})
