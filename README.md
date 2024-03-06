@@ -1,9 +1,16 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
+<!--
 [![snake animation](https://raw.githubusercontent.com/Pei-Chen-Chiu/Pei-Chen-Chiu/output/github-contribution-grid-snake.svg)](url)
 
 <p align="left">
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FPei-Chen-Chiu1212%2Fhit-counter&count_bg=%2338B0AB&title_bg=%23555555&icon=&icon_color=%23D02525&title=Profile%20views" />
 </p>
-
+-->
 <!-- <summary><b> LANGUAGE STATS </b></summary>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pei-Chen-Chiu&title_color=013e8c&icon_color=2234AE&text_color=000000&bg_color=fca9db,ff96c1,3dabff&show_icons=true&locale=en&langs_count=10&layout=compact">
 
